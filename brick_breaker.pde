@@ -54,7 +54,7 @@ void draw(){
     c=0;   //resets the game after 3 attempts
   }
   fill(255);
-  text("NO. OF LIVES REMAINING: " + k,100,300);//text for total lives remsining
+  text("NO. OF LIVES REMAINING: " + k,100,300);//text for total lives remaining
   textSize(16);
   if(c==3)
   {
